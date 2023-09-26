@@ -1,18 +1,15 @@
 # Webseite
 A Website about Aria
-# John Doe's Portfolio
 ## Who Am I
-I am a passionate web developer with a love for creating beautiful and functional websites.
+I am a passionate nature photographer with a love for creating beautiful pictures.
 ## My Work
-- [Project 1: Personal Blog](project1-link)
-- [Project 2: Portfolio Website](project2-link)
-- [Project 3: Web App](project3-link)
+https://ariadaneshmand.github.io/Aria-Photography/
 Skills:
+- Photoshop, Illustrator, InDesign, Final Cut
 - HTML/CSS
-- JavaScript
+- Java
 - Git/GitHub
-- ...
 ## How to Contact Me
-- Email: john@example.com
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe/)
-- GitHub: [johndoe](https://github.com/johndoe)
+- Email: ariadaneshmand91@googlemail.com
+- LinkedIn: [Aria Daneshmand]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/aria-daneshmand-150680265/)https://www.linkedin.com/in/aria-daneshmand-150680265/)
+- GitHub: [Aria Daneshmand]([https://github.com/johndoe](https://github.com/AriaDaneshmand)https://github.com/AriaDaneshmand)
